@@ -111,7 +111,8 @@
   - [Курс по питону от преподавателя(*pythontutor*)](https://pythontutor.ru/lessons/while/)
   - [Курс по питону от преподавателя(*metanit*)](https://metanit.com/python/)
   - [Курс по питону от вашего покорного слуги(*stepik*)](https://stepik.org/course/58852/promo)
-    ![image](https://github.com/PSUTI-ISTe31/Info/assets/147435894/345d32b4-59cb-4a6a-900b-ca92a69150d5)
+    ![image](https://github.com/PSUTI-ISTe31/Info/assets/147435894/540f0bd0-a34a-4b69-80bb-fb588ecff0eb)
+
 </details>
 
 [Возврат в readme](README.md)
